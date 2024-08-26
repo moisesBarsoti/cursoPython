@@ -1,6 +1,6 @@
 # Associação ele verifica se ele está na sequência
 
-curso = "Curso de Phyton"
+curso = "Curso de Pyton"
 print("Phyton" in curso) # True
 
 frutas = ['Maça', 'Banana', "Morango"]
